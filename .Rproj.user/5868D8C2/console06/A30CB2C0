@@ -168,3 +168,50 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 ]0;~/Documents/CapeTown/Blog/ixblogKaties-MacBook-Pro-3:ixblog katie$ git init
 Reinitialized existing Git repository in /Users/katie/Documents/CapeTown/Blog/ixblog/.git/
 ]0;~/Documents/CapeTown/Blog/ixblogKaties-MacBook-Pro-3:ixblog katie$ git add -A
+]0;~/Documents/CapeTown/Blog/ixblogKaties-MacBook-Pro-3:ixblog katie$ git commit -m "added content"
+[master b841c9c] added content
+ Committer: Katie Hosey <katie@Katies-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 852 insertions(+), 171 deletions(-)
+ create mode 100644 .Rproj.user/5868D8C2/sources/prop/9EB583BA
+ create mode 100644 .Rproj.user/5868D8C2/sources/s-E9C6B0DC/3F1DAC85
+ create mode 100644 .Rproj.user/5868D8C2/sources/s-E9C6B0DC/3F1DAC85-contents
+ rename .Rproj.user/5868D8C2/sources/s-E9C6B0DC/{44AF8AEE => C36C9963} (60%)
+ create mode 100644 .Rproj.user/5868D8C2/sources/s-E9C6B0DC/C36C9963-contents
+ create mode 100644 .Rproj.user/shared/notebooks/26025CFF-2018-06-18-kaggle-competition/1/5868D8C2E9C6B0DC/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/26025CFF-2018-06-18-kaggle-competition/1/s/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/76137A4A-2018-06-18-about-me/1/5868D8C2E9C6B0DC/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/76137A4A-2018-06-18-about-me/1/s/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/E1264306-2018-06-18-r-package/1/5868D8C2E9C6B0DC/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/E1264306-2018-06-18-r-package/1/s/chunks.json
+ delete mode 100644 content/post/2015-01-01-lorem-ipsum.md
+ delete mode 100644 content/post/2015-07-23-r-rmarkdown.Rmd
+ delete mode 100644 content/post/2015-07-23-r-rmarkdown.html
+ delete mode 100644 content/post/2016-12-30-hello-markdown.md
+ rewrite content/post/2018-06-18-about-me.html (81%)
+ rewrite content/post/2018-06-18-kaggle-competition.html (96%)
+ rewrite content/post/2018-06-18-r-package.html (80%)
+]0;~/Documents/CapeTown/Blog/ixblogKaties-MacBook-Pro-3:ixblog katie$ git push -u
+Counting objects: 45, done.
+Delta compression using up to 4 threads.
+Compressing objects:   2% (1/38)   Compressing objects:   5% (2/38)   Compressing objects:   7% (3/38)   Compressing objects:  10% (4/38)   Compressing objects:  13% (5/38)   Compressing objects:  15% (6/38)   Compressing objects:  18% (7/38)   Compressing objects:  21% (8/38)   Compressing objects:  23% (9/38)   Compressing objects:  26% (10/38)   Compressing objects:  28% (11/38)   Compressing objects:  31% (12/38)   Compressing objects:  34% (13/38)   Compressing objects:  36% (14/38)   Compressing objects:  39% (15/38)   Compressing objects:  42% (16/38)   Compressing objects:  44% (17/38)   Compressing objects:  47% (18/38)   Compressing objects:  50% (19/38)   Compressing objects:  52% (20/38)   Compressing objects:  55% (21/38)   Compressing objects:  57% (22/38)   Compressing objects:  60% (23/38)   Compressing objects:  63% (24/38)   Compressing objects:  65% (25/38)   Compressing objects:  68% (26/38)   Compressing objects:  71% (27/38)   Compressing objects:  73% (28/38)   Compressing objects:  76% (29/38)   Compressing objects:  78% (30/38)   Compressing objects:  81% (31/38)   Compressing objects:  84% (32/38)   Compressing objects:  86% (33/38)   Compressing objects:  89% (34/38)   Compressing objects:  92% (35/38)   Compressing objects:  94% (36/38)   Compressing objects:  97% (37/38)   Compressing objects: 100% (38/38)   Compressing objects: 100% (38/38), done.
+Writing objects:   2% (1/45)   Writing objects:   4% (2/45)   Writing objects:   6% (3/45)   Writing objects:   8% (4/45)   Writing objects:  11% (5/45)   Writing objects:  13% (6/45)   Writing objects:  15% (7/45)   Writing objects:  17% (8/45)   Writing objects:  20% (9/45)   Writing objects:  22% (10/45)   Writing objects:  24% (11/45)   Writing objects:  26% (12/45)   Writing objects:  28% (13/45)   Writing objects:  31% (14/45)   Writing objects:  33% (15/45)   Writing objects:  37% (17/45)   Writing objects:  40% (18/45)   Writing objects:  42% (19/45)   Writing objects:  44% (20/45)   Writing objects:  46% (21/45)   Writing objects:  48% (22/45)   Writing objects:  51% (23/45)   Writing objects:  53% (24/45)   Writing objects:  55% (25/45)   Writing objects:  57% (26/45)   Writing objects:  60% (27/45)   Writing objects:  62% (28/45)   Writing objects:  64% (29/45)   Writing objects:  66% (30/45)   Writing objects:  68% (31/45)   Writing objects:  71% (32/45)   Writing objects:  73% (33/45)   Writing objects:  75% (34/45)   Writing objects:  77% (35/45)   Writing objects:  80% (36/45)   Writing objects:  82% (37/45)   Writing objects:  84% (38/45)   Writing objects:  86% (39/45)   Writing objects:  88% (40/45)   Writing objects:  91% (41/45)   Writing objects:  93% (42/45)   Writing objects:  97% (44/45)   Writing objects: 100% (45/45)   Writing objects: 100% (45/45), 246.69 KiB | 2.62 MiB/s, done.
+Total 45 (delta 11), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/11)   [Kremote: Resolving deltas:  18% (2/11)   [Kremote: Resolving deltas:  27% (3/11)   [Kremote: Resolving deltas:  36% (4/11)   [Kremote: Resolving deltas:  63% (7/11)   [Kremote: Resolving deltas:  72% (8/11)   [Kremote: Resolving deltas:  81% (9/11)   [Kremote: Resolving deltas:  90% (10/11)   [Kremote: Resolving deltas: 100% (11/11)   [Kremote: Resolving deltas: 100% (11/11), completed with 7 local objects.[K
+To https://github.com/katiehosey/week3blog.git
+   62b22a6..b841c9c  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+]0;~/Documents/CapeTown/Blog/ixblogKaties-MacBook-Pro-3:ixblog katie$ git init
+Reinitialized existing Git repository in /Users/katie/Documents/CapeTown/Blog/ixblog/.git/
+]0;~/Documents/CapeTown/Blog/ixblogKaties-MacBook-Pro-3:ixblog katie$ git com[K[K[Kcom[K[K[Kadd -A

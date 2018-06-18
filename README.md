@@ -1,3 +1,3 @@
 # Blog 
 
-This is my blog hosted at [URL](http://).
+This is my blog hosted at [URL](http://katiehosey.netlify.com).
