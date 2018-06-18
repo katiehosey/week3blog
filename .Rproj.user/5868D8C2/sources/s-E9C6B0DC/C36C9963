@@ -1,19 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1529317412850.000,
+    "created" : 1529320531704.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2726808018",
-    "id" : "44AF8AEE",
-    "lastKnownWriteTime" : 1529317412,
-    "last_content_update" : 1529317412,
+    "hash" : "0",
+    "id" : "C36C9963",
+    "lastKnownWriteTime" : 1529320562,
+    "last_content_update" : 1529320562841,
     "path" : "~/Documents/CapeTown/Blog/ixblog/content/post/2018-06-18-r-package.Rmd",
     "project_path" : "content/post/2018-06-18-r-package.Rmd",
     "properties" : {
+        "cursorPosition" : "13,1",
+        "scrollLine" : "0"
     },
-    "relative_order" : 5,
+    "relative_order" : 7,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"

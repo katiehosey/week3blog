@@ -61,7 +61,7 @@ blogdown::new_post("First New Post")
 
 # A R Markdown post.
 #
-blogdown::new_post("Kaggle Competition", ext = '.Rmd')
+blogdown::new_post("r-package", ext = '.Rmd')
 
 # Add some content to these newly created files.
 

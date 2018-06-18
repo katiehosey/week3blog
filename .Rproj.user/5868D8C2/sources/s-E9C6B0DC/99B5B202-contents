@@ -6,3 +6,12 @@ slug: kaggle-competition
 categories: []
 tags: []
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Kaggle Competition 
+
+My last kaggle competition submission was quite awhile ago to be honest. The last time I tried to submit, I had some issues. I went through and found a bunch of variables from different files that I thought would be useful for the logistic regression model I’m currently using. After replacing missing values with medians, I tried to take all those variables and compile them into one data frame using the join function by their Id values. Unfortunately it seemed that their Id numbers didn’t match in all the datasets, so my new table was entirely NA values. There’s definitely a way around this problem, but all that took me a really long time and I gave up for the day. I’ll work on that idea again sometime this week. 
+
