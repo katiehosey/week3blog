@@ -2,18 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1529316914253.000,
-    "dirty" : true,
+    "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
     "id" : "4D8EA942",
-    "lastKnownWriteTime" : 1528815847,
-    "last_content_update" : 1529323049520,
+    "lastKnownWriteTime" : 1529323150,
+    "last_content_update" : 1529323150152,
     "path" : "~/Documents/CapeTown/day-12/04-blogdown.R",
     "project_path" : null,
     "properties" : {
         "cursorPosition" : "59,0",
-        "scrollLine" : "57"
+        "scrollLine" : "0"
     },
     "relative_order" : 2,
     "source_on_save" : false,

@@ -291,3 +291,44 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 ]0;~/Documents/CapeTown/Blog/ixblogKaties-MacBook-Pro-3:ixblog katie$ git init
 Reinitialized existing Git repository in /Users/katie/Documents/CapeTown/Blog/ixblog/.git/
 ]0;~/Documents/CapeTown/Blog/ixblogKaties-MacBook-Pro-3:ixblog katie$ git add -A
+]0;~/Documents/CapeTown/Blog/ixblogKaties-MacBook-Pro-3:ixblog katie$ git commit -m "not using marks[Kdown"
+[master c5c66e4] not using markdown
+ Committer: Katie Hosey <katie@Katies-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 17 files changed, 169 insertions(+), 6 deletions(-)
+ create mode 100644 .Rproj.user/5868D8C2/sources/prop/11AEEA95
+ create mode 100644 .Rproj.user/5868D8C2/sources/prop/6ADA884D
+ create mode 100644 .Rproj.user/5868D8C2/sources/prop/B72245C9
+ create mode 100644 .Rproj.user/5868D8C2/sources/s-E9C6B0DC/441C0772
+ create mode 100644 .Rproj.user/5868D8C2/sources/s-E9C6B0DC/441C0772-contents
+ create mode 100644 .Rproj.user/5868D8C2/sources/s-E9C6B0DC/670DB5A5
+ create mode 100644 .Rproj.user/5868D8C2/sources/s-E9C6B0DC/670DB5A5-contents
+ create mode 100644 .Rproj.user/5868D8C2/sources/s-E9C6B0DC/8373869F
+ create mode 100644 .Rproj.user/5868D8C2/sources/s-E9C6B0DC/8373869F-contents
+ create mode 100644 content/post/2018-06-18-about-me.md
+ create mode 100644 content/post/2018-06-18-kaggle-competition.md
+ create mode 100644 content/post/2018-06-18-r-package.md
+]0;~/Documents/CapeTown/Blog/ixblogKaties-MacBook-Pro-3:ixblog katie$ git com[K[K[Kpsuh[K[K[Kush - [Ku origin master
+Counting objects: 18, done.
+Delta compression using up to 4 threads.
+Compressing objects:   5% (1/18)   Compressing objects:  11% (2/18)   Compressing objects:  16% (3/18)   Compressing objects:  22% (4/18)   Compressing objects:  27% (5/18)   Compressing objects:  33% (6/18)   Compressing objects:  38% (7/18)   Compressing objects:  44% (8/18)   Compressing objects:  50% (9/18)   Compressing objects:  55% (10/18)   Compressing objects:  61% (11/18)   Compressing objects:  66% (12/18)   Compressing objects:  72% (13/18)   Compressing objects:  77% (14/18)   Compressing objects:  83% (15/18)   Compressing objects:  88% (16/18)   Compressing objects:  94% (17/18)   Compressing objects: 100% (18/18)   Compressing objects: 100% (18/18), done.
+Writing objects:   5% (1/18)   Writing objects:  11% (2/18)   Writing objects:  16% (3/18)   Writing objects:  22% (4/18)   Writing objects:  27% (5/18)   Writing objects:  33% (6/18)   Writing objects:  38% (7/18)   Writing objects:  44% (8/18)   Writing objects:  50% (9/18)   Writing objects:  55% (10/18)   Writing objects:  61% (11/18)   Writing objects:  72% (13/18)   Writing objects:  77% (14/18)   Writing objects:  83% (15/18)   Writing objects:  88% (16/18)   Writing objects:  94% (17/18)   Writing objects: 100% (18/18)   Writing objects: 100% (18/18), 2.70 KiB | 56.00 KiB/s, done.
+Total 18 (delta 9), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/9)   [Kremote: Resolving deltas:  22% (2/9)   [Kremote: Resolving deltas:  33% (3/9)   [Kremote: Resolving deltas:  44% (4/9)   [Kremote: Resolving deltas:  55% (5/9)   [Kremote: Resolving deltas:  66% (6/9)   [Kremote: Resolving deltas:  77% (7/9)   [Kremote: Resolving deltas:  88% (8/9)   [Kremote: Resolving deltas: 100% (9/9)   [Kremote: Resolving deltas: 100% (9/9), completed with 7 local objects.[K
+To https://github.com/katiehosey/week3blog.git
+   1c5d0d5..c5c66e4  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+git init
+Reinitialized existing Git repository in /Users/katie/Documents/CapeTown/Blog/ixblog/.git/
+]0;~/Documents/CapeTown/Blog/ixblogKaties-MacBook-Pro-3:ixblog katie$ git add -A

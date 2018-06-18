@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2726808018",
+    "hash" : "1812953804",
     "id" : "441C0772",
-    "lastKnownWriteTime" : 1529323041,
-    "last_content_update" : 1529323041,
+    "lastKnownWriteTime" : 1529324838,
+    "last_content_update" : 1529324838833,
     "path" : "~/Documents/CapeTown/Blog/ixblog/content/post/2018-06-18-r-package.md",
     "project_path" : "content/post/2018-06-18-r-package.md",
     "properties" : {
+        "cursorPosition" : "11,738",
+        "scrollLine" : "1"
     },
     "relative_order" : 8,
     "source_on_save" : false,

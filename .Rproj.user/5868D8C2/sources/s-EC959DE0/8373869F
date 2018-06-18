@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "120345931",
+    "hash" : "3904258212",
     "id" : "8373869F",
-    "lastKnownWriteTime" : 1529323020,
-    "last_content_update" : 1529323020,
+    "lastKnownWriteTime" : 1529324850,
+    "last_content_update" : 1529324850665,
     "path" : "~/Documents/CapeTown/Blog/ixblog/content/post/2018-06-18-kaggle-competition.md",
     "project_path" : "content/post/2018-06-18-kaggle-competition.md",
     "properties" : {
+        "cursorPosition" : "11,722",
+        "scrollLine" : "1"
     },
     "relative_order" : 7,
     "source_on_save" : false,

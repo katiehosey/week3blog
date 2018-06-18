@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1419214797",
+    "hash" : "3878770550",
     "id" : "670DB5A5",
-    "lastKnownWriteTime" : 1529323052,
-    "last_content_update" : 1529323052,
+    "lastKnownWriteTime" : 1529324823,
+    "last_content_update" : 1529324823628,
     "path" : "~/Documents/CapeTown/Blog/ixblog/content/post/2018-06-18-about-me.md",
     "project_path" : "content/post/2018-06-18-about-me.md",
     "properties" : {
+        "cursorPosition" : "11,1578",
+        "scrollLine" : "9"
     },
     "relative_order" : 9,
     "source_on_save" : false,
