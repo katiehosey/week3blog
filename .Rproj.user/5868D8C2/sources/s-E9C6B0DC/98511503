@@ -1,19 +1,19 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1529317371296.000,
+    "created" : 1529322764678.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2345695096",
-    "id" : "62BEAAFA",
-    "lastKnownWriteTime" : 1529320753,
-    "last_content_update" : 1529320753789,
+    "hash" : "0",
+    "id" : "98511503",
+    "lastKnownWriteTime" : 1529322764,
+    "last_content_update" : 1529322764,
     "path" : "~/Documents/CapeTown/Blog/ixblog/content/post/2018-06-18-about-me.Rmd",
     "project_path" : "content/post/2018-06-18-about-me.Rmd",
     "properties" : {
-        "cursorPosition" : "16,0",
-        "scrollLine" : "14"
+        "cursorPosition" : "8,0",
+        "scrollLine" : "0"
     },
     "relative_order" : 4,
     "source_on_save" : false,
