@@ -1,0 +1,8 @@
+---
+title: Kaggle Competition
+author: Katie Hosey
+date: '2018-06-18'
+slug: kaggle-competition
+categories: []
+tags: []
+---

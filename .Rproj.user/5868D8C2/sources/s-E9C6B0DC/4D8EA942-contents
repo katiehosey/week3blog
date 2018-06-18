@@ -57,7 +57,7 @@ blogdown::serve_site()
 
 # A plain Markdown post.
 #
-blogdown::new_post("First New Post")
+blogdown::new_post("About Me")
 
 # A R Markdown post.
 #
